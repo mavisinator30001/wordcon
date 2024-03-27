@@ -11,6 +11,7 @@ The input files *must* be text files, and the name of the text files must end in
 
 # Roadmap
 Add option to add an entire input file rather than only one key phrase to append to the original word list [COMPLETED]
+
 Add support for larger text files, such a, rockyou.txt
 
 
