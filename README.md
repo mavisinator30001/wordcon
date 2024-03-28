@@ -8,6 +8,8 @@ Download the concat.py file and simply run it through the linux terminal in the 
 # Tips
 The input files *must* be text files, and the name of the text files must end in '.txt' or the program will return an error
 
+The words in the input files *must* be seperated by line return
+
 
 # Roadmap
 Add option to add an entire input file rather than only one key phrase to append to the original word list [COMPLETED]
