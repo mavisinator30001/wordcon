@@ -1,3 +1,8 @@
+# DISCLAIMER
+I do realize that there are other languages and, perhaps, even software, that might make this easier. However, I chose Python because it was familiar and I knew I could find a way to 'coax' the code to do what I wanted. I also intentionally did not use libraries, I 
+wanted this to be all my own work.
+
+
 # WordCon
 A work in progress python program with the purpose of easily expanding wordlists.
 
@@ -20,6 +25,3 @@ Add support for larger text files, such as, rockyou.txt
 
 
 ... More plans will be formulated in the future, should anyone be interested and support my work
-
-
-I do realize that there are other languages and, perhaps, even software, that might make this easier. However, I chose Python because it was familiar and I knew I could find a way to 'coax' the code to do what I wanted. I also intentionally did not use libraries, I wanted this to be all my own work.
